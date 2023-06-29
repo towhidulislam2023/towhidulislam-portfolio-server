@@ -1,0 +1,19 @@
+{
+    "ProjectName": "My Project",
+    "ProjectCategory": "Web Development",
+    "ProjectTechnology": ["HTML", "CSS", "JavaScript"],
+    "projectBannarImage": "http://example.com/bannar.jpg",
+    "Projectgallearyimage1": "http://example.com/gallery1.jpg",
+    "Projectgallearyimage2": "http://example.com/gallery2.jpg",
+    "Projectgallearyimage3": "http://example.com/gallery3.jpg",
+    "Projectgallearyimage4": "http://example.com/gallery4.jpg",
+    "Project-duration": "3 months",
+    "uploadedTime": "2023-06-29T10:00:00",
+    "ProjectServerSidecodeLink": "http://example.com",
+    "projectClientSideCodeLink": "http://example.com",
+    "isResponsive": true,
+    "ProjectLiveSideLink": "http://example.com",
+    "projectDescription": "This is a web development project that showcases my skills in HTML, CSS, and JavaScript.",
+    "ProjectOverview": "The project aims to create a responsive website using modern web technologies. It includes a bannar image, gallery images, and server-side and client-side code."
+  }
+  
